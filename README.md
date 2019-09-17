@@ -1,4 +1,4 @@
-# Playground for fun in CS207
+# Kyra's Playground 
 
 A place to play with `git`.
 
